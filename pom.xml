@@ -150,7 +150,7 @@
         <org.apache.commons.text.version>1.10.0</org.apache.commons.text.version>
         <org.apache.opennlp.opennlp-tools.version>1.9.4</org.apache.opennlp.opennlp-tools.version>
 
-        <org.glassfish.jaxb.jaxb-runtime.version>2.3.0</org.glassfish.jaxb.jaxb-runtime.version>
+        <org.glassfish.jaxb.jaxb-runtime.version>2.3.7</org.glassfish.jaxb.jaxb-runtime.version>
         <org.ioperm.morphology-el.version>1.0.0</org.ioperm.morphology-el.version>
         <org.jetbrains.annotations.version>20.1.0</org.jetbrains.annotations.version>
         <org.jetbrains.intellij.deps.trove4j.version>1.0.20200330</org.jetbrains.intellij.deps.trove4j.version>
